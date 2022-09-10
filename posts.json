@@ -1,0 +1,46 @@
+[{
+        "id": 1,
+        "name": "Преступление и наказание",
+        "author": "Фёдор Достоевский",
+        "price": "500 руб.",
+        "genre": "роман",
+        "quantity": "7 шт.",
+        "pictures": "http://top10reiting.com/wp-content/uploads/2017/03/9-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Мертвые души",
+        "author": "Николай Гоголь",
+        "price": "400 руб.",
+        "genre": "поэма",
+        "quantity": "4 шт.",
+        "pictures": "http://top10reiting.com/wp-content/uploads/2017/03/8-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Собачье сердце",
+        "author": "Михаил Булгаков",
+        "price": "350 руб.",
+        "genre": "повесть",
+        "quantity": "3 шт.",
+        "pictures": "http://top10reiting.com/wp-content/uploads/2017/03/6-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": " Война и мир",
+        "author": "Лев Толстой",
+        "price": "300 руб.",
+        "genre": "проза",
+        "quantity": "6 шт.",
+        "pictures": "http://top10reiting.com/wp-content/uploads/2017/03/3-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Тихий Дон",
+        "author": "Михаил Шолохов",
+        "price": "250 руб.",
+        "genre": "роман",
+        "quantity": "2 шт.",
+        "pictures": "http://top10reiting.com/wp-content/uploads/2017/03/2-1.jpg"
+    }
+]
